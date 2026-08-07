@@ -65,7 +65,6 @@ If no suitable match is found, the chatbot provides a helpful fallback response.
 
 ## 📂 Project Structure
 
-```text
 College-Admission-FAQ-Chatbot/
 │
 ├── app.py
