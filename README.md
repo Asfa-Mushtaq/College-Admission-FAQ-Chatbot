@@ -12,6 +12,14 @@ The chatbot helps students get quick and relevant answers to common college admi
 
 ---
 
+## 🚀 Live Demo
+
+Try the College Admission FAQ Chatbot online:
+
+👉 [Open Live Demo](https://college-admission-faq-chatbot.streamlit.app/)
+
+---
+
 ## ✨ Features
 
 - 🤖 AI-powered FAQ matching
