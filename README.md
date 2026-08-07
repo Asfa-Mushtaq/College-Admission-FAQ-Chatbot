@@ -30,12 +30,12 @@ The chatbot helps students get quick and relevant answers to common college admi
 
 ## 🛠️ Technologies Used
 
-- Python
-- Streamlit
-- Scikit-learn
-- NLTK
-- TF-IDF Vectorization
-- Cosine Similarity
+- **Python**
+- **Streamlit**
+- **Scikit-learn**
+- **NLTK**
+- **TF-IDF Vectorization**
+- **Cosine Similarity**
 
 ---
 
@@ -79,19 +79,19 @@ College-Admission-FAQ-Chatbot/
 
 ### 1. Clone the Repository
 
-bash
+```bash
 git clone https://github.com/Asfa-Mushtaq/College-Admission-FAQ-Chatbot.git
-
+```
 ### 2. Navigate to the Project Folder
 
-bash
+```bash
 cd College-Admission-FAQ-Chatbot
-
+```
 ### 3. Install Required Libraries
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 ### 4. Run the Application
 
 🎨 User Interface
