@@ -128,15 +128,15 @@ Does the college provide transport?
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Asfa Mushtaq
+**Asfa Mushtaq**
 
 BS Computer Science Student
 Python & AI Enthusiast
 
 ---
 
-⭐ Project
+## ⭐ Project
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
